@@ -4,4 +4,4 @@ Meul — это мощное и надежное музыкальное прил
 <a href="https://github.com/user-attachments/files/18009476/meul.docx">Ссылка на тз</a>
 
 <h1 align="center">Прототип приложения</h1>
-<a href="https://github.com/user-attachments/files/18009471/Untitled.pdf">Ссылка на прототмп приложения</a>
+<a href="https://github.com/user-attachments/files/18009471/Untitled.pdf">Ссылка на прототип приложения</a>
