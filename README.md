@@ -1,7 +1,7 @@
 # musicapp
 Meul — это мощное и надежное музыкальное приложение с широким функционалом: онлайн и оффлайн воспроизведение, создание плейлистов, персонализированные рекомендации, социальные функции и многое другое. Meul обеспечивает высокое качество звука и интуитивно понятный интерфейс. Наслаждайтесь любимой музыкой в любое время и в любом месте с Meul!
 <h1 align="center">Техническое задание</h1>
-<a href="https://github.com/user-attachments/files/18009476/meul.docx">Ссылка на тз</a>
+<a href="https://github.com/user-attachments/files/18111241/default.docx">Ссылка на тз</a>
 
 <h1 align="center">Прототип приложения</h1>
-<a href="https://github.com/user-attachments/files/18009471/Untitled.pdf">Ссылка на прототип приложения</a>
+<a href="https://www.figma.com/design/7GM2NAGB98aWReb3gstHfP/Untitled?node-id=83-2&node-type=frame&t=WwNtyJ9DYNyzskSi-0">Ссылка на прототип приложения</a>
